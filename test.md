@@ -1,11 +1,15 @@
-![Alice and the Cheshire Cat](https://www.gutenberg.org/files/19778/19778-h/images/p084.png)
-
-**PIG AND PEPPER**
-
----
-
-**"Well, then,"** the Cat went on, "you see a dog growls when it's angry, and wags its tail when it's pleased. Now *I* growl when I'm pleased, and wag my tail when I'm angry. Therefore I'm mad."
-
-> *"I call it purring, not growling,"* said Alice.
-
-> *"Call it what you like,"* said the Cat.
+<div style="position: relative; display: inline-block;">
+  <img src="YOUR_IMAGE_URL" alt="Alice Image" style="width: 400px;">
+  <div style="
+    position: absolute;
+    top: 20px;
+    left: 220px;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    background: white;
+    padding: 4px 8px;
+    border-radius: 8px;">
+    PIG AND PEPPER
+  </div>
+</div>
