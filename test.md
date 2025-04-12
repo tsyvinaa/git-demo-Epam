@@ -1,5 +1,5 @@
 <div style="position: relative; display: inline-block;">
-  <img src="YOUR_IMAGE_URL" alt="Alice Image" style="width: 400px;">
+  <img src="https://www.gutenberg.org/files/19778/19778-h/images/p084.png" alt="Alice Image" style="width: 400px;">
   <div style="
     position: absolute;
     top: 20px;
