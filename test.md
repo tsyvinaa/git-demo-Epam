@@ -1,10 +1,9 @@
 
+# Pig and Pepper
 
+![Alice and the Cheshire Cat](https://www.gutenberg.org/files/19778/19778-h/images/p084.png)
 <table>
   <tr>
-    <td># Pig and Pepper
-
-    ![Alice and the Cheshire Cat](https://www.gutenberg.org/files/19778/19778-h/images/p084.png)</td>
     <td>
 
 > “Well, then,” the Cat went on, “you see a dog growls when it’s angry, and wags its tail when it’s pleased.  
