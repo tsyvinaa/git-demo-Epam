@@ -1,24 +1,20 @@
-***
-113
+<table>
+<tr>
+<td style="width:40%; vertical-align:top;">
+<img src="https://www.gutenberg.org/files/19778/19778-h/images/p084.png" alt="Alice and the Cheshire Cat" width="100%">
+</td>
+<td style="width:60%; vertical-align:top; padding-left: 20px;">
 
-“You’d better not talk !” said Five. “ I  
-heard the Queen say only yesterday you deserved  
-to be beheaded !”  
-![THE QUEEN’S CROQUET-GROUND][30]
+**PIG AND PEPPER**
 
-“What for ?” said the one who had spoken first.  
-“That ’s none of your business, Two!” said Seven.  
-“Yes, it is his business !” said Five, “ and I ’ll  
-tell him—it was for bringing the cook tulip-roots  
-instead of onions.” Seven flung down his brush,  
-and had just begun, “Well, of  
-all the unjust things—” when his eye chanced  
-to fall upon Alice, as she stood watching them,  
-and he checked himself suddenly : the others  
-looked round also, and all of them bowed low.
+---
 
-[1]: https://pbs.twimg.com/media/EAts-3NXYAQ-qrS.png
-[2]: https://www.adobe.com/be_en/active-use/pdf/Alice_in_Wonderland.pdf
-[3]: https://www.gutenberg.org/files/19778/19778-h/images/frontipiece.jpg
-[4]: https://www.gutenberg.org/files/19778/19778-h/images/p001.png
-[30]: https://www.gutenberg.org/files/19778/19778-h/images/p105.png
+**"Well, then,"** the Cat went on, "you see a dog growls when it's angry, and wags its tail when it's pleased. Now *I* growl when I'm pleased, and wag my tail when I'm angry. Therefore I'm mad."
+
+* "I call it purring, not growling," said Alice.
+
+* "Call it what you like," said the Cat.
+
+</td>
+</tr>
+</table>
