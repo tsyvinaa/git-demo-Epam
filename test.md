@@ -1,6 +1,10 @@
-![Alice and the Cheshire Cat](https://www.gutenberg.org/files/19778/19778-h/images/p084.png)
-
->             “Well, then,” the Cat went on, “you see a dog growls when it’s angry, and wags its tail when it’s pleased.  
->             Now *I* growl when I’m pleased, and wag my tail when I’m angry. Therefore I’m mad.”  
->             “I call it purring, not growling,” said Alice.  
->             “Call it what you like,” said the Cat.
+<table>
+  <tr>
+    <td style="position: relative;">
+      <img src="https://www.gutenberg.org/files/19778/19778-h/images/p084.png" width="300">
+      <div style="position: absolute; top: 20px; left: 40px; color: white;">
+        <strong>“Call it what you like,” said the Cat.</strong>
+      </div>
+    </td>
+  </tr>
+</table>
