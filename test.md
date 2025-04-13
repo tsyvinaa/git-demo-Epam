@@ -1,8 +1,7 @@
 91
+# PIG AND PEPPER
 
 ![PIG AND PEPPER][91]
-
-# PIG AND PEPPER
 
 &nbsp;&nbsp;&nbsp;&nbsp;“Well, then,” the Cat  
 went on, “you see a dog  
