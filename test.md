@@ -10,11 +10,9 @@ growls when it’s angry,
 and wags its tail when it’s  
 pleased. Now *I* growl when  
 I’m pleased, and wag my  
-tail when I’m angry. There-
-fore I’m mad.”
-
+tail when I’m angry. There-  
+fore I’m mad.”<br>
 &nbsp;&nbsp;&nbsp;&nbsp;“*I* call it purring, not  
-growling,” said Alice.
-
+growling,” said Alice.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;“Call it what you like,”  
 said the Cat. “Do you
